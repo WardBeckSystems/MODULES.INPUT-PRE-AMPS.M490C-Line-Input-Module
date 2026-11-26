@@ -11,6 +11,18 @@ Wiki page: [M490C](../../../../PAGES/M490C.md)
 - **Size:** 4,674,455 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** functional, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px), turned 90°
+- **Ink extent:** 9–432 mm across, 0–287 mm up
+- **Outlines:** line 685 rings, 5,842 straight (13,023 mm) / 1,056 curved (1,508 mm); text 219 rings, 1,532 straight (1,758 mm) / 463 curved (704 mm)
+- **Centre lines:** 4,573 paths (70 closed); straight 7,620 mm, curved 274 mm; horizontal 3,401 mm, vertical 2,049 mm, diagonal 2,170 mm
+- **Circles and arcs:** 16 circles, 48 arcs; largest r 2.9 @ (159.3, 102.9), r 2.1 @ (375.7, 28.6), r 1.7 @ (375.6, 28.8), r 1.5 @ (30.3, 108.5)
+- **Closed boxes:** 19
+- **Wiring (first pass):** 190 connected wire groups from 609 runs
+
+Every curve, box, word and wire group: [1978 - M490C - Functional (traced).json](../SCHEMATICS/1978%20-%20M490C%20-%20Functional%20%28traced%29.json) (the CAD file: `1978 - M490C - Functional (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

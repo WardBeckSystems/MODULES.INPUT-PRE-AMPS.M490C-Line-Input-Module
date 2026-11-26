@@ -11,6 +11,18 @@ Wiki page: [M490C](../../../../PAGES/M490C.md)
 - **Size:** 4,692,871 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** mechanical, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px), turned 90°
+- **Ink extent:** 4–432 mm across, 0–287 mm up
+- **Outlines:** line 801 rings, 6,165 straight (14,320 mm) / 1,364 curved (1,664 mm); text 429 rings, 2,246 straight (1,713 mm) / 779 curved (889 mm)
+- **Centre lines:** 7,528 paths (272 closed); straight 9,152 mm, curved 108 mm; horizontal 4,110 mm, vertical 2,512 mm, diagonal 2,530 mm
+- **Circles and arcs:** 4 circles, 22 arcs; largest r 3.6 @ (219.9, 54.2), r 3.1 @ (220.0, 54.1), r 1.9 @ (232.2, 236.1), r 1.7 @ (220.0, 63.2)
+- **Closed boxes:** 26
+- **Dots (junctions):** 1
+
+Every curve, box, word and wire group: [1978 - M490C - Front Panel (traced).json](../MECHANICAL/1978%20-%20M490C%20-%20Front%20Panel%20%28traced%29.json) (the CAD file: `1978 - M490C - Front Panel (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)
