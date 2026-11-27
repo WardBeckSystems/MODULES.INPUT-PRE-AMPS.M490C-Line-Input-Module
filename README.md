@@ -13,6 +13,29 @@ Ward-Beck Systems M490C, 1978|11. Wiki page: [M490C on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 23 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [5 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1978 - M490C - 004.jpg](MANUALS/1978%20-%20M490C%20-%20004.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Input sensitivity** | -10 to +20 dBm (ref_ 600 ohm source) |
+| **Frequency response** | ±0.5 dB from 30 Hz to 20 kHz |
+| **Noise** | 70 dB be ]ow nomina ] operating level _ with SENSITIVITY set at -10 dBm, mixing attenuator set at 15 dB in-hand (20 Hz to 20 kHz) Noise decreases a $ SENSITIVITY is decreased |
+| **Harmonic distortion** | Less than 0.35 % from 30 Hz to 20 kHz at 20 dB above nomina] operating Teve 1 or Tess Less than 0.1% at kHz at 20 dB above nomina operating level or Tess _ Less than 0.5% at kHz through cue channel at 20 dB above nomina operating level or Tess |
+| **Source impedance** | 600 ohms or Tess, balanced/unbalanced. |
+| **Input impedance** | 24,000 ohms |
+| **Output impedances** | 30,000 ohms = baLanced (program circuits) 60,000 ohms balanced (cue circuits) _ Output Leve] dBm nomi na ] +25 dBm maximum (equivalent voltage 600 ohms) _ Input and output terminals designated by numbers are in phase, or Tower number of numbered pa jr is in phase with lower number of other numbered pair |
+| **Phasing** |  |
+| &nbsp;&nbsp;Input levels | (to operate ch On, Ch 0FF Logic to +13 volts_ Logic 1: +16 to +24 volls_ Externa] Contro] Output: (Open collector currents ink.) |
+| **Minimum load impedance** | Maximum Toad current: 600 ohms 40 mA |
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._

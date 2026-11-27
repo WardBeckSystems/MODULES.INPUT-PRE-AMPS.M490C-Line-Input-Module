@@ -1,0 +1,192 @@
+{
+ "module": "M490C",
+ "title": "M490c LINE InPUT MODULE",
+ "source": {
+  "file": "MANUALS/1978 - M490C - 004.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.91,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Input sensitivity",
+   "key": "input_sensitivity",
+   "text": "-10 to +20 dBm (ref_ 600 ohm source)",
+   "quantities": [
+    {
+     "from": -10,
+     "to": 20,
+     "unit": "dBm"
+    },
+    {
+     "value": 600,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "±0.5 dB from 30 Hz to 20 kHz",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "70 dB be ]ow nomina ] operating level _ with SENSITIVITY set at -10 dBm, mixing attenuator set at 15 dB in-hand (20 Hz to 20 kHz) Noise decreases a $ SENSITIVITY is decreased",
+   "quantities": [
+    {
+     "value": 70,
+     "unit": "dB"
+    },
+    {
+     "value": -10,
+     "unit": "dBm"
+    },
+    {
+     "value": 15,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.35 % from 30 Hz to 20 kHz at 20 dB above nomina] operating Teve 1 or Tess Less than 0.1% at kHz at 20 dB above nomina operating level or Tess _ Less than 0.5% at kHz through cue channel at 20 dB above nomina operating level or Tess",
+   "quantities": [
+    {
+     "value": 0.35,
+     "unit": "%"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 20,
+     "unit": "dB"
+    },
+    {
+     "value": 0.1,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "dB"
+    },
+    {
+     "value": 0.5,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms or Tess, balanced/unbalanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "24,000 ohms",
+   "quantities": [
+    {
+     "value": 24000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "30,000 ohms = baLanced (program circuits) 60,000 ohms balanced (cue circuits) _ Output Leve] dBm nomi na ] +25 dBm maximum (equivalent voltage 600 ohms) _ Input and output terminals designated by numbers are in phase, or Tower number of numbered pa jr is in phase with lower number of other numbered pair",
+   "quantities": [
+    {
+     "value": 30000,
+     "unit": "ohms"
+    },
+    {
+     "value": 60000,
+     "unit": "ohms"
+    },
+    {
+     "value": 25,
+     "unit": "dBm"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "",
+   "items": [
+    {
+     "name": "Input levels",
+     "text": "(to operate ch On, Ch 0FF Logic to +13 volts_ Logic 1: +16 to +24 volls_ Externa] Contro] Output: (Open collector currents ink.)",
+     "quantities": [
+      {
+       "value": 13,
+       "unit": "volts"
+      }
+     ],
+     "key": "input_level"
+    }
+   ]
+  },
+  {
+   "name": "Minimum load impedance",
+   "key": "minimum_load_impedance",
+   "text": "Maximum Toad current: 600 ohms 40 mA",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 40,
+     "unit": "mA"
+    }
+   ]
+  }
+ ]
+}
