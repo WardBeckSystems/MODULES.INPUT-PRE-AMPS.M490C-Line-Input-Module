@@ -1,5 +1,5 @@
 # 1978 - M490C - Functional.jpg
-Wiki page: [M490C](../../../../PAGES/M490C.md)
+Wiki page: [M490C](../)
 
 
 - **Year:** 1978 (module estimate (manual_issue))
